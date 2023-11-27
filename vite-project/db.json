@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Hamida",
+      "password": "H123",
+      "email": "Hamida@gmail.com",
+      "friends": [],
+      "requests": [],
+      "userBlock": [],
+      "logins": "logins"
+    },
+    {
+      "id": 2,
+      "username": "Shahana",
+      "password": "Sh123",
+      "email": "Shahana@gmail.com",
+      "friends": [],
+      "requests": [],
+      "userBlock": [],
+      "logins": "logins"
+    },
+    {
+      "id": 3,
+      "username": "Asmar",
+      "password": "A123",
+      "email": "Asmar@gmail.com",
+      "friends": [],
+      "requests": [
+        {
+          "email": "sevinc@gmail.com",
+          "password": "8804",
+          "username": "sevinc",
+          "request": [],
+          "friends": [],
+          "userBlock": [],
+          "id": 7
+        }
+      ],
+      "userBlock": []
+    },
+    {
+      "id": 4,
+      "username": "Fatima",
+      "password": "F123",
+      "email": "Fatima@gmail.com",
+      "friends": [],
+      "requests": [
+        {
+          "email": "sevinc@gmail.com",
+          "password": "8804",
+          "username": "sevinc",
+          "request": [],
+          "friends": [],
+          "userBlock": [],
+          "id": 7
+        }
+      ],
+      "userBlock": []
+    },
+    {
+      "id": 5,
+      "username": "Ismayil",
+      "password": "I123",
+      "email": "Ismayil@gmail.com",
+      "friends": [],
+      "requests": [],
+      "userBlock": []
+    },
+    {
+      "id": 6,
+      "username": "Seid",
+      "password": "S123",
+      "email": "Seid@gmail.com",
+      "friends": [],
+      "requests": [
+        {
+          "email": "sevinc@gmail.com",
+          "password": "8804",
+          "username": "sevinc",
+          "request": [],
+          "friends": [],
+          "userBlock": [],
+          "id": 7
+        }
+      ],
+      "userBlock": []
+    },
+    {
+      "email": "sevinc@gmail.com",
+      "password": "8804",
+      "username": "sevinc",
+      "request": [],
+      "friends": [],
+      "userBlock": [],
+      "id": 7
+    },
+    {
+      "email": "a@g",
+      "password": "",
+      "username": "aa",
+      "request": [],
+      "friends": [],
+      "userBlock": [],
+      "id": 8
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "aaa",
+      "username": "a",
+      "request": [],
+      "friends": [],
+      "userBlock": [],
+      "id": 9
+    }
+  ]
+}
